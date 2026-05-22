@@ -1,58 +1,84 @@
-\# Hi, I'm Chandavena Nikitha 👋
+<h1 align="center">Hi 👋, I'm Chandavena Nikitha</h1>
+<h3 align="center">Aspiring Software Engineer | AI & Full-Stack Developer | Python • NLP • Streamlit</h3>
 
+---
 
+## 🚀 About Me
 
-\## About Me
+🎓 B.Tech CSE Student passionate about Artificial Intelligence, Machine Learning, NLP, and Full-Stack Development.
 
-\- B.Tech CSE Student
+💡 I enjoy building real-world AI applications using Python, Streamlit, OpenCV, and Hugging Face tools.
 
-\- Interested in AI, NLP, and Full-Stack Development
+🔍 Currently exploring:
+- Generative AI
+- NLP Applications
+- Deep Learning
+- Full-Stack AI Systems
+- Research & Innovation
 
-\- Building real-world projects using Python, Streamlit, and Hugging Face
+📌 Actively looking for:
+- Summer Internships
+- AI/ML Internship Opportunities
+- Startup & Research Collaborations
 
-\- Exploring Machine Learning and Generative AI
+---
 
+## 🛠️ Tech Stack
 
+### Languages
+- Python
+- HTML
+- CSS
+- JavaScript
 
-\## Skills
+### AI/ML
+- Machine Learning
+- Deep Learning
+- NLP
+- OpenCV
+- TensorFlow
 
-\- Python
+### Frameworks & Tools
+- Streamlit
+- Git & GitHub
+- VS Code
+- Hugging Face
 
-\- HTML/CSS
+---
 
-\- Streamlit
+## 🌟 Featured Projects
 
-\- Machine Learning
+### 🩺 Medibot
+AI-powered medical assistant built using Hugging Face and Streamlit.
 
-\- NLP
+### 🦠 Malaria Disease Detection
+CNN-based malaria cell image classification using Deep Learning.
 
-\- Git \& GitHub
+### 😄 Facial Emotion Recognition
+Emotion detection system using OpenCV and Deep Learning.
 
+### 🫁 Pneumonia Detection
+Medical imaging project for pneumonia prediction using CNN.
 
-
-\## Projects
-
-\### Medibot
-
-AI-powered medical assistant using Hugging Face and Streamlit.
-
-
-
-\### PastPoint
-
+### 🌍 PastPoint
 Interactive historical exploration platform using APIs and Streamlit.
 
+---
 
+## 📈 GitHub Stats
 
-\### Malaria Detection
+![Nikitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikithayyadav&show_icons=true)
 
-CNN-based malaria cell image classification project.
+---
 
+## 🌐 Connect With Me
 
+🔗 LinkedIn:  
+https://www.linkedin.com/in/nikitha29
 
-\## Connect With Me
+💻 GitHub:  
+https://github.com/Nikithayyadav
 
-\- LinkedIn: https://www.linkedin.com/in/nikitha29
+---
 
-\- GitHub: https://github.com/Nikithayyadav
-
+⭐ “Learning, Building, and Growing Every Day.”

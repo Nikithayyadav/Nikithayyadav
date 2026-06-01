@@ -9,7 +9,7 @@
 
 # 👩‍💻 About Me 
 
-Hi, I'm **Chandavena Nikitha **, a Computer Science student passionate about building real-world applications using **Python, AI, NLP, and Full Stack Development**.
+Hi, I'm **Chandavena Nikitha**, a Computer Science student passionate about building real-world applications using **Python, AI, NLP, and Full Stack Development**.
 
 I enjoy creating intelligent and impactful projects that solve practical problems — from AI healthcare assistants and computer vision systems to interactive web applications and automation tools.
 

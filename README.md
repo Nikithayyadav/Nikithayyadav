@@ -6,7 +6,7 @@
 </p>
  
 ---  
-
+ 
 # 👩‍💻 About Me 
 
 Hi, I'm **Chandavena Nikitha**, a Computer Science student passionate about building real-world applications using **Python, AI, NLP, and Full Stack Development**.

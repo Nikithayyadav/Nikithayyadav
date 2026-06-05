@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikitha Yadav</h1>
+<h1 align="center">Hi 👋, I'm Nikitha Yadav</h1> 
 <h3 align="center">AI & Python Developer | Full Stack Learner | Open Source Enthusiast</h3>
 
 <p align="center">
